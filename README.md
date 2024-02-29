@@ -18,4 +18,6 @@
 ---
 - [判定](/J_KRvO-BTcKL8SPZmB6fHA)
 - [創建新的人物卡](/DP81vuG7R7-FVALHmOBAdw)
+- [屬性詳述](/-k382ED1R5aWkrNlNAHFJg)
+
 
