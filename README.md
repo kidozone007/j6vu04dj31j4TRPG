@@ -17,4 +17,5 @@
 基礎規則
 ---
 - [判定](/J_KRvO-BTcKL8SPZmB6fHA)
+- [創建新的人物卡](/DP81vuG7R7-FVALHmOBAdw)
 
