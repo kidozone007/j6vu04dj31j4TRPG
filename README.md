@@ -14,10 +14,9 @@
 
 如果有好的建議，或者想投遞資源，請聯系我。
 
-- [什麼是無限恐怖TRPG？](/n-ymYYRoSgqLFKou5iU2rw)
-
 創建新的人物卡
 ---
+- [什麼是無限恐怖TRPG？](/n-ymYYRoSgqLFKou5iU2rw)
 - [創建新的人物卡](/DP81vuG7R7-FVALHmOBAdw)
 
 基礎規則
