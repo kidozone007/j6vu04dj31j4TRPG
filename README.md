@@ -23,7 +23,7 @@
 ---
 - [判定](/J_KRvO-BTcKL8SPZmB6fHA)
 - [屬性詳述](/-k382ED1R5aWkrNlNAHFJg)
-- [技能概述](/mmsSjwraT1y6gdMtTW2gpw)
+- [技能詳述](/mmsSjwraT1y6gdMtTW2gpw)
 
 進階規則
 ---
