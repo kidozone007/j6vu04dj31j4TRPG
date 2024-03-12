@@ -24,10 +24,12 @@
 - [判定](/J_KRvO-BTcKL8SPZmB6fHA)
 - [屬性詳述](/-k382ED1R5aWkrNlNAHFJg)
 - [技能詳述](/mmsSjwraT1y6gdMtTW2gpw)
+- [專長詳述](/SB1t6w8lRT-LBAQW0KG12w)
 
 進階規則
 ---
 - [屬性的獲得和附加成功](/ku8qyFOaQi-sY5y4Od9GYQ)
+- [技能的強化和附加成功](/HkTFbt1-SUWMgCFog-NxmQ)
 
 參考資料
 ---
