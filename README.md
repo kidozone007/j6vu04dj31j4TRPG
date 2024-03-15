@@ -10,6 +10,7 @@
 ---
 - [判定](/J_KRvO-BTcKL8SPZmB6fHA)
 - [屬性詳述](/-k382ED1R5aWkrNlNAHFJg)
+- [衍生屬性詳述](/b4a8bdihSGeJZyn6SmMp3A)
 - [技能詳述](/mmsSjwraT1y6gdMtTW2gpw)
 - [職業詳述](https://hackmd.io/@0-En0lKGS-yg19kz7jU6nw/r1Ql4EapT)
 
