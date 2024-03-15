@@ -1,8 +1,6 @@
 無限恐怖TRPG
 ===
 
-- [回到導覽頁面](/n-ymYYRoSgqLFKou5iU2rw)
-
 開始遊戲
 ---
 - [什麼是無限恐怖TRPG？](/zqLznPFqQc29QZiR0NMJjw)

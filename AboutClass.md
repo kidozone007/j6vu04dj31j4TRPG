@@ -35,4 +35,4 @@
 
 - [施法者](/9VCphe0cSg6zbDLgm_y37Q)
 
-- [異能者](/wkkkrhVlSj2f6LYDEQE3Iw)
+- [異能者](https://hackmd.io/@0-En0lKGS-yg19kz7jU6nw/ByKu84Tpa)
