@@ -19,6 +19,7 @@
 - [屬性的獲得和附加成功](/ku8qyFOaQi-sY5y4Od9GYQ)
 - [技能的強化和附加成功](/HkTFbt1-SUWMgCFog-NxmQ)
 - [生存狀態](/afYuW2-8Q4qrf6xodpN3JA)
+- [傷害種類與抗性](/ZrZQ6LpDSxmMlU-KzvmhmQ)
 
 參考資料
 ---
