@@ -20,6 +20,7 @@
 - [技能的強化和附加成功](/HkTFbt1-SUWMgCFog-NxmQ)
 - [生存狀態](/afYuW2-8Q4qrf6xodpN3JA)
 - [傷害種類與抗性](/ZrZQ6LpDSxmMlU-KzvmhmQ)
+- [異常狀態](/QnEWCaCrSQ2LB32ZxuY_Pw)
 
 參考資料
 ---
