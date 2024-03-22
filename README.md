@@ -21,6 +21,7 @@
 - [生存狀態](/afYuW2-8Q4qrf6xodpN3JA)
 - [傷害種類與抗性](/ZrZQ6LpDSxmMlU-KzvmhmQ)
 - [異常狀態](/QnEWCaCrSQ2LB32ZxuY_Pw)
+- [裝備與裝備位](/LQC0257sTKa3jsy20dBhqA)
 
 參考資料
 ---
